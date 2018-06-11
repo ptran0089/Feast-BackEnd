@@ -10,4 +10,4 @@ Run mongo and app:
 - npm run dev
 
 The menu is initially blank.
-Add some items first before creating an order!
+Add some items first to populate the menu and before creating an order!
