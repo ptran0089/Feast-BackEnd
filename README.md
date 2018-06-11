@@ -1,3 +1,9 @@
-# Feast-BackEnd
+Install server and client dependencies:
+# npm install
+# cd  client
+# npm install 
 
-'npm run dev' to start the server
+Run mongo and app:
+# cd ..      // return to root folder
+# mongod
+# npm run dev
